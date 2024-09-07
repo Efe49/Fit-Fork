@@ -1,0 +1,10 @@
+/* carousel.component.scss */
+.carousel-caption {
+  bottom: 20%;
+}
+
+@media (max-width: 767px) {
+  .carousel-caption {
+    bottom: 10%;
+  }
+}
