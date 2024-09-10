@@ -103,7 +103,7 @@
           "builder": "angular-cli-ghpages:deploy",
           "options": {
             "outputPath": "docs",
-            "baseHref": "/Fit-Fork/"
+            "baseHref": "https://efe49.github.io/Fit-Fork/"
           }
         }
       }
